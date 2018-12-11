@@ -1,4 +1,3 @@
-# Maze-Game-Pygame-
 ## Project Name: Yet Another Maze 
 ## Creators: Jian (Henry) Wee and Darren Tran
 
